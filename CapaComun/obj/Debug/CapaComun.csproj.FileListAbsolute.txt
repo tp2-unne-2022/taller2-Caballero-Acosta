@@ -1,0 +1,6 @@
+C:\Users\fernando.caballero\Desktop\rehaciendo\CapaComun\bin\Debug\CapaComun.dll
+C:\Users\fernando.caballero\Desktop\rehaciendo\CapaComun\bin\Debug\CapaComun.pdb
+C:\Users\fernando.caballero\Desktop\rehaciendo\CapaComun\obj\Debug\CapaComun.csproj.AssemblyReference.cache
+C:\Users\fernando.caballero\Desktop\rehaciendo\CapaComun\obj\Debug\CapaComun.csproj.CoreCompileInputs.cache
+C:\Users\fernando.caballero\Desktop\rehaciendo\CapaComun\obj\Debug\CapaComun.dll
+C:\Users\fernando.caballero\Desktop\rehaciendo\CapaComun\obj\Debug\CapaComun.pdb
